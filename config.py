@@ -1,0 +1,7 @@
+token_group = ""
+token_my = ""
+API_VERSION = "5.131"
+host = "localhost"
+user = "postgres"
+password = ""
+db_name = "postgres"
